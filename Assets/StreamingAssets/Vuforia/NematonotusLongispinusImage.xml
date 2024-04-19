@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="FossilPNG" size="0.393700 0.313238" />
+    <ImageTarget name="FossilOriginal" size="0.105000 0.083541" />
+  </Tracking>
+</QCARConfig>
